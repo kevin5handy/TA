@@ -27,3 +27,7 @@ caused the DNN model to misinterpret new data. All four algorithms show
 significant potential for further development and real-world application, and this
 research is expected to contribute to future studies by providing consideration for
 using the cycle index variable for SOC estimation
+
+<img width="1989" height="490" alt="image" src="https://github.com/user-attachments/assets/879048e1-ec68-4ea0-946b-700a758afb97" />
+
+<img width="1989" height="490" alt="image" src="https://github.com/user-attachments/assets/b8fbb104-7d62-4cc9-a5d9-a211593b27d9" />
